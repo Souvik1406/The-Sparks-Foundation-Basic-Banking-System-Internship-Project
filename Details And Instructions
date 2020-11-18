@@ -1,0 +1,15 @@
+  Firstly you need to copy all the contents in a folder called bank
+  Extract the files in bankfiles.rar and copy them in the folder bank as well.
+   open XAMPP Server and start apache and mySQL and enter through the url : http://127.0.0.1/bank
+   All files are supposed to sync very well.
+   
+   The Technologies USed include : 
+   1) HTML5 and CSS - For Front end. Random Copyright Free images from Google. The Bank name Selected and it's logo selected are Random as well. No Copyright Intended.
+   2) PHP,JavaScript - Backend and Button Creation
+   3) Bootstrap - For developing a responsive website.
+   4) MySQL - The Database Used
+   
+   
+   ----------HOPE YOU LIKE AND APPRECIATE MY HARD WORK__________
+   
+   SOUVIK ROY
